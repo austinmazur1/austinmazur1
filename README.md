@@ -1,6 +1,8 @@
-### Greetings! I'm Austin, thanks for stopping by👋
+## Greetings! I'm Austin, thanks for stopping by👋
 
-Devloper 💻 | Bmx Rider 🚲 | Martial Artist 🥋 | Coffee Enthusiast ☕ 
+#### Devloper 💻 | Bmx Rider 🚲 | Martial Artist 🥋 | Coffee Enthusiast ☕ 
+
+--- 
 
 🤔 How'd I get here? 
 

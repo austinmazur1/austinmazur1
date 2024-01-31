@@ -10,7 +10,8 @@ I have always been facinated and drawn to web and app development, after a few y
 
 I am apart of the development team at Cometa Labs in Palma de Mallorca, Spain 🇪🇸. Using React Native, Expo, Firebase, NextJS, I contribute to providing clients with multi platform applications bringing their ideas to life utilizing agile methodologies and ensuring scalable and maintainable code. 
 
-Stay in touch!
+Contact me on LinkedIn or by email
+
 🔗 [LinkedIn](https://www.linkedin.com/in/austin-mazur/)
 
 📧 [Email](mailto:mazuraustin1@gmail.com?subject=[GitHub]%20Inquiry)

@@ -1,5 +1,14 @@
-### Hi there 👋
+### Greetings! I'm Austin, thanks for stopping by👋
 
+Devloper 💻 | Bmx Rider 🚲 | Martial Artist 🥋 | Coffee Enthusiast ☕ 
+
+🤔 How'd I get here? 
+
+I have always been facinated and drawn to web and app development, after a few years of traveling then finally settling down in Spain, I decided it was time to dive in! Starting with some online courses then eventually enrolling in a bootcamp, I fully immursed myself in the world of software development excited to pursue this as my career and continue honing my skills.
+
+☄ Full Stack Developer at Cometa Labs
+
+I am apart of the development team at Cometa Labs in Palma de Mallorca, Spain 🇪🇸. Using React Native, Expo, Firebase, NextJS, I contribute to providing clients with multi platform applications bringing their ideas to life utilizing agile methodologies and ensuring scalable and maintainable code. 
 <!--
 **austinmazur1/austinmazur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
